@@ -1,0 +1,22 @@
+{
+    "events": [
+        {
+            "name": "Ninth Annual Conference on Education",
+            "description": "The Annual Conference on Education brings together voices from around the state and beyond for an engaging and interactive day focused on the future of education in Delaware. This year’s conference will feature “Idea Exchanges:” small group conversations matched to the core areas of Student Success 2025. Education, government, nonprofit, and business leaders will facilitate these informal conversations to bring participants together around a variety of issues, including technology in the classroom. Topics like “Developing Growth Mindset through Gaming”, “Reimagining Learning through Technology”, and “Investing in Technology Infrastructure” will explore the ways in which tech facilitates and enriches learning. We will also be joined by Barrel of Makers, Delaware’s first makerspace.",
+            "start": "2016-11-14T08:00:00-05:00",
+            "end": "2016-11-14T12:00:00-05:00",
+            "location": "Clayton Hall Conference Center, University of Delaware",
+            "address": "100 David Hollowell Drive, Newark, DE",
+            "organizer": "Vision Coalition of Delaware"
+        },
+        {
+            "name": "Angels and Entrepreneurs Speed Dating",
+            "description": "Be ready for a burst of effective meetings in an exhilarating 2 hour period. A select group of entrepreneurs will have the opportunity to meet one-on-one with investors and present their startups.Angels and Entrepreneurs Speed Dating is an event collaboration by First State Angels and 1313 Innovation.",
+            "start": "2016-11-14T10:00:00-05:00",
+            "end": "2016-11-14T12:00:00-05:00",
+            "location": "1313 Innovation, Suite 140A",
+            "address": "1313 N. Market St",
+            "organizer": "1313 Innovation, 1st State Angels"
+        }
+    ]
+}
